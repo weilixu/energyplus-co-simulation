@@ -1,0 +1,36 @@
+Program Version,EnergyPlus, Version 9.6.0-f420c06a69, YMD=2022.02.10 16:57,
+   ************* PythonPlugin: Class AverageZoneTemps imported from: /Users/weilixu/PycharmProjects/eplus-multithreading/eplus_files/bldg2/PythonPluginCustomSchedule2.py
+   ************* PythonPlugin: Class CoolingSetPoint imported from: /Users/weilixu/PycharmProjects/eplus-multithreading/eplus_files/bldg2/PythonPluginCustomSchedule2.py
+   ************* PythonPlugin: Class HeatingSetPoint imported from: /Users/weilixu/PycharmProjects/eplus-multithreading/eplus_files/bldg2/PythonPluginCustomSchedule2.py
+   ************* Beginning Zone Sizing Calculations
+   ************* Beginning System Sizing Calculations
+   ************* Beginning Plant Sizing Calculations
+   ** Warning ** Check input. Pump nominal power or motor efficiency is set to 0, for pump=SHWSYS1 PUMP
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ** Warning ** In Output:Table:Monthly 'COMPONENTS OF PEAK ELECTRICAL DEMAND' invalid Variable or Meter Name 'HEATREJECTION:ELECTRICITY'
+   ** Warning ** In Output:Table:Monthly 'COMPONENTS OF PEAK ELECTRICAL DEMAND' invalid Variable or Meter Name 'EXTERIOREQUIPMENT:ELECTRICITY'
+   ** Warning ** In Output:Table:Monthly 'COMPONENTS OF PEAK ELECTRICAL DEMAND' invalid Variable or Meter Name 'HUMIDIFICATION:ELECTRICITY'
+   ** Warning ** In Output:Table:Monthly 'COMPONENTS OF PEAK ELECTRICAL DEMAND' invalid Variable or Meter Name 'HEATRECOVERY:ELECTRICITY'
+   ** Warning ** In Output:Table:Monthly 'COMPONENTS OF PEAK ELECTRICAL DEMAND' invalid Variable or Meter Name 'WATERSYSTEMS:ELECTRICITY'
+   ** Warning ** In Output:Table:Monthly 'COMPONENTS OF PEAK ELECTRICAL DEMAND' invalid Variable or Meter Name 'REFRIGERATION:ELECTRICITY'
+   ** Warning ** In Output:Table:Monthly 'COMPONENTS OF PEAK ELECTRICAL DEMAND' invalid Variable or Meter Name 'GENERATORS:ELECTRICITY'
+   ** Warning ** In Output:Table:Monthly 'COMPONENTS OF PEAK ELECTRICAL DEMAND' invalid Variable or Meter Name 'ELECTRICITYPRODUCED:FACILITY'
+   ** Warning ** In Output:Table:Monthly 'COMPONENTS OF PEAK NET ELECTRICAL DEMAND' invalid Variable or Meter Name 'HEATREJECTION:ELECTRICITY'
+   ** Warning ** In Output:Table:Monthly 'COMPONENTS OF PEAK NET ELECTRICAL DEMAND' invalid Variable or Meter Name 'EXTERIOREQUIPMENT:ELECTRICITY'
+   ** Warning ** In Output:Table:Monthly 'COMPONENTS OF PEAK NET ELECTRICAL DEMAND' invalid Variable or Meter Name 'HUMIDIFICATION:ELECTRICITY'
+   ** Warning ** In Output:Table:Monthly 'COMPONENTS OF PEAK NET ELECTRICAL DEMAND' invalid Variable or Meter Name 'HEATRECOVERY:ELECTRICITY'
+   ** Warning ** In Output:Table:Monthly 'COMPONENTS OF PEAK NET ELECTRICAL DEMAND' invalid Variable or Meter Name 'WATERSYSTEMS:ELECTRICITY'
+   ** Warning ** In Output:Table:Monthly 'COMPONENTS OF PEAK NET ELECTRICAL DEMAND' invalid Variable or Meter Name 'REFRIGERATION:ELECTRICITY'
+   ** Warning ** In Output:Table:Monthly 'COMPONENTS OF PEAK NET ELECTRICAL DEMAND' invalid Variable or Meter Name 'GENERATORS:ELECTRICITY'
+   ** Warning ** In Output:Table:Monthly 'COMPONENTS OF PEAK NET ELECTRICAL DEMAND' invalid Variable or Meter Name 'ELECTRICITYPRODUCED:FACILITY'
+   ** Warning ** In Output:Table:Monthly 'ENERGY CONSUMPTION - ELECTRICITY & NATURAL GAS' invalid Variable or Meter Name 'NATURALGAS:BUILDING'
+   ** Warning ** In Output:Table:Monthly 'ENERGY CONSUMPTION - ELECTRICITY & NATURAL GAS' invalid Variable or Meter Name 'NATURALGAS:BUILDING'
+   ** Warning ** In Output:Table:Monthly 'BUILDING ENERGY PERFORMANCE - ELECTRICITY' invalid Variable or Meter Name 'TASKLIGHTS:INTERIORLIGHTS:ELECTRICITY'
+   ** Warning ** In Output:Table:Monthly 'BUILDING ENERGY PERFORMANCE - ELECTRICITY' invalid V

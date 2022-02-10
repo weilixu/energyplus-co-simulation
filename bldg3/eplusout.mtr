@@ -1,0 +1,55 @@
+Program Version,EnergyPlus, Version 9.6.0-f420c06a69, YMD=2022.02.10 16:57
+1,5,Environment Title[],Latitude[deg],Longitude[deg],Time Zone[],Elevation[m]
+2,8,Day of Simulation[],Month[],Day of Month[],DST Indicator[1=yes 0=no],Hour[],StartMinute[],EndMinute[],DayType
+3,5,Cumulative Day of Simulation[],Month[],Day of Month[],DST Indicator[1=yes 0=no],DayType  ! When Daily Meters Requested
+4,2,Cumulative Days of Simulation[],Month[]  ! When Monthly Meters Requested
+5,1,Cumulative Days of Simulation[] ! When Run Period Meters Requested
+6,1,Calendar Year of Simulation[] ! When Annual Meters Requested
+44,9,Electricity:Facility [J] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+1358,9,NaturalGas:Facility [J] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+1729,9,CO2:Facility [kg] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+1754,9,CO:Facility [kg] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+1779,9,CH4:Facility [kg] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+1804,9,NOx:Facility [kg] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+1829,9,N2O:Facility [kg] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+1854,9,SO2:Facility [kg] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+1879,9,PM:Facility [kg] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+1904,9,PM10:Facility [kg] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+1929,9,PM2.5:Facility [kg] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+1954,9,NH3:Facility [kg] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+1979,9,NMVOC:Facility [kg] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+2004,9,Hg:Facility [kg] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+2029,9,Pb:Facility [kg] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+2054,9,WaterEnvironmentalFactors:Facility [L] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+2079,9,Nuclear High:Facility [kg] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+2104,9,Nuclear Low:Facility [m3] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+2818,9,Carbon Equivalent:Facility [kg] !Monthly [Value,Min,Day,Hour,Minute,Max,Day,Hour,Minute]
+End of Data Dictionary
+1,CHICAGO ANN HTG 99.6% CONDNS DB,  41.98, -87.92,  -6.00, 201.00
+4,1, 1
+44,354975452.98023283,908453.5200024263,21, 1,40,3098453.4941284945,21, 1,10
+1358,2513308734.854027,11999.999999999998,21, 1,40,21281653.718242317,21,15,10
+1729,252.23849736924097,0.31104376778482906,21, 1,40,2.167512571432661,21,23,10
+1754,0.14238110724413158,0.00010822138747228774,21, 1,40,0.0012166121582675414,21,23,10
+1779,0.26790176572577595,0.0006788091901458128,21, 1,40,0.0023377229397425286,21,23,10
+1804,0.3397452300028961,0.0005658073801455095,21, 1,40,0.0029344771285520765,21,23,10
+1829,0.005513850195470571,0.000007305784858579478,21, 1,40,0.00004743287358058125,21,23,10
+1854,0.6651876147199383,0.001700628205444542,21, 1,40,0.005806008408020961,21,23,10
+1879,0.0,0.0,21, 1,10,0.0,21, 1,10
+1904,0.0151958014854522,0.000015841086712842198,21, 1,40,0.00013028302631731576,21,23,10
+1929,0.0,0.0,21, 1,10,0.0,21, 1,10
+1954,0.0,0.0,21, 1,10,0.0,21, 1,10
+1979,0.010176935663837611,0.000009288461368824723,21, 1,40,0.0000871181996962667,21,23,10
+2004,0.000002280683848924336,5.124101399293682e-9,21, 1,40,1.983443611301196e-8,21,23,10
+2029,0.00001039655284431479,2.52393947856674e-8,21, 1,40,9.060801744616303e-8,21,23,10
+2054,152.97865932436818,0.3915031317847576,21, 1,40,1.335295884634242,21, 7,20
+2079,0.0,0.0,21, 1,10,0.0,21, 1,10
+2104,0.0,0.0,21, 1,10,0.0,21, 1,10
+2818,70.91102332595986,0.08966937743738605,21, 1,40,0.609573635985924,21,23,10
+1,CHICAGO ANN CLG .4% CONDNS DB=>MWB,  41.98, -87.92,  -6.00, 201.00
+4,1, 7
+44,1426757567.0682838,5775056.280002425,21, 5,40,11937347.11167553,21, 7,20
+1358,32911624.886481553,12000.0,21, 1,10,1571326.7776404761,21,17,60
+1729,489.2377563238186,1.9739619308768286,21, 5,50,4.1441813911016165,21, 7,10
+1754,0.17052662128726923,0.0006854004748082876,21, 5,50,0.0014726725717850789,21, 7,10
+1779,1.0661081404358015,0.00

@@ -1,0 +1,16 @@
+ ReadVarsESO
+ processing:/Users/weilixu/PycharmProjects/eplus-multithreading/eplus_files/bldg1/PythonPluginCustomSchedule1.rvi
+ input file:eplusout.eso
+ output file:eplusout.csv
+ getting all vars from:eplusout.eso
+  number variables requested for output=          28
+ ReadVars Run Time=00hr 00min  1.68sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:/Users/weilixu/PycharmProjects/eplus-multithreading/eplus_files/bldg1/PythonPluginCustomSchedule1.mvi
+ input file:eplusout.mtr
+ output file:eplusmtr.csv
+ getting all vars from:eplusout.mtr
+  number variables requested for output=          19
+ ReadVars Run Time=00hr 00min  0.02sec
+ ReadVarsESO program completed successfully.
