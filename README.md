@@ -15,7 +15,7 @@ The data exchange can be between EnergyPlus models (demand group) and EnergyPlus
 ## Prerequisite:
 The package only works with EnergyPlus 9.6 - which has the built-in python package.
 
-# Installation and kick off sample simulation
+## Installation and kick off sample simulation
 Download the pacakge.
 1. Copy and paste the package to your EnergyPlus 9.6 folder, override the existing pyenergyplus folder.
 2. You can leave the other files anywhere you want.
@@ -23,7 +23,7 @@ Download the pacakge.
 4. You can change the weather file by adding more weather files into the folder, or build up your own main.py
 5. Kick off the main.py to run the sample simulation.
 
-# Advanced technique
+## Advanced technique
 The HeatingSetpoint class in PythonPluginCustomSchedule1.py and PythonPluginCustomSchedule2.py shows a good example how to program an EnergyPlus plugin python script.
 When there is a value to update from demand side, call ```python self.save_writer(state, "model_name", value)``` to send value to the supply side.
 
